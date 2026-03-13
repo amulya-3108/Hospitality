@@ -228,4 +228,3 @@ Possible future enhancements include:
 * Predictive pricing strategies
 
 ---
-If you'd like, I can also help you build a **very strong GitHub Data Analyst portfolio structure (3–4 projects + clean README layout)** that recruiters usually expect.
